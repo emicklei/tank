@@ -1,0 +1,1 @@
+java -classpath ./tank-1.0-SNAPSHOT.jar com.philemonworks.games.tank.TankServer localhost 8000
